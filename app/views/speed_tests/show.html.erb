@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Ping:</strong>
+  <%= @speed_test.ping %>
+</p>
+
+<p>
+  <strong>Upload:</strong>
+  <%= @speed_test.upload %>
+</p>
+
+<p>
+  <strong>Download:</strong>
+  <%= @speed_test.download %>
+</p>
+
+<p>
+  <strong>Server:</strong>
+  <%= @speed_test.server %>
+</p>
+
+<%= link_to 'Edit', edit_speed_test_path(@speed_test) %> |
+<%= link_to 'Back', speed_tests_path %>
