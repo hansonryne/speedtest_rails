@@ -1,13 +1,12 @@
 # frozen_string_literal: true
 
 class SpeedTestsController < ApplicationController
-  MAX_RECORDS_SHOWN = 30
   before_action :set_speed_test, only: %i[show edit update destroy]
 
   # GET /speed_tests
   # GET /speed_tests.json
   def index
-    @records_to_show = params[:max_records]
+    params[:max_records] ? @records_to_show = params[:max_records] : @records_to_show = 10
     @records = SpeedTest.all.order(created_at: 'desc').limit(@records_to_show)
     @pings = SpeedTest.get_pings(@records.to_a)
     @download_speeds = SpeedTest.get_download_speed(@records.to_a)

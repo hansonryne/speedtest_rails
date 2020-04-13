@@ -12,8 +12,8 @@ namespace :speed do
     results = new_test.run
     SpeedTest.create(
       ping: results.latency,
-      upload: results.pretty_upload_rate,
-      download: results.pretty_download_rate,
+      upload: (results.upload_rate / 1000000.0),
+      download: (results.download_rate / 1000000.0),
       server: results.server
     )
   end
