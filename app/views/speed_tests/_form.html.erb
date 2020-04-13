@@ -1,37 +1,5 @@
-<%= form_with(model: speed_test, local: true) do |form| %>
-  <% if speed_test.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(speed_test.errors.count, "error") %> prohibited this speed_test from being saved:</h2>
-
-      <ul>
-        <% speed_test.errors.full_messages.each do |message| %>
-          <li><%= message %></li>
-        <% end %>
-      </ul>
-    </div>
-  <% end %>
-
-  <div class="field">
-    <%= form.label :ping %>
-    <%= form.text_field :ping %>
-  </div>
-
-  <div class="field">
-    <%= form.label :upload %>
-    <%= form.text_field :upload %>
-  </div>
-
-  <div class="field">
-    <%= form.label :download %>
-    <%= form.text_field :download %>
-  </div>
-
-  <div class="field">
-    <%= form.label :server %>
-    <%= form.text_field :server %>
-  </div>
-
-  <div class="actions">
-    <%= form.submit %>
-  </div>
-<% end %>
+<form action="/speed_tests" method="GET">
+  <label>Number of Tests Shown:</label>
+  <input type="text" name="max_records" placeholder="<%= @records_to_show %>">
+  <input type=submit>
+</form>

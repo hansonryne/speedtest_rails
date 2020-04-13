@@ -1,2 +1,1158 @@
 Your IP: 172.58.172.60
 Your coordinates: [28.5177, -81.4508]
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bw-test.smartcity.net:8080 - 45.664 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 29.017046 seconds to download 11172506 bytes in 4 threads
+Download: 2.94 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 1.485958 seconds to upload 820032 bytes in 4 threads
+Upload: 4.21 Mbps
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 45.4525 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 31.981028 seconds to download 11172506 bytes in 4 threads
+Download: 2.67 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 4.07419 seconds to upload 820032 bytes in 4 threads
+Upload: 1.54 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://orlando.speedtest.centurylink.net:8080 - 59.541999999999994 ms
+Server http://orlando.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 22.695176 seconds to download 11172506 bytes in 4 threads
+Download: 3.76 Mbps
+
+starting upload tests:
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 2.401967 seconds to upload 820032 bytes in 4 threads
+Upload: 2.60 Mbps
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 51.1085 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 32.087512 seconds to download 11172506 bytes in 4 threads
+Download: 2.66 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.075706 seconds to upload 820032 bytes in 4 threads
+Upload: 5.82 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://orlando.speedtest.centurylink.net:8080 - 58.7155 ms
+Server http://orlando.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Took 33.056065 seconds to download 11172506 bytes in 4 threads
+Download: 2.58 Mbps
+
+starting upload tests:
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 3.025832 seconds to upload 820032 bytes in 4 threads
+Upload: 2.07 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 51.6125 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 48.911402 seconds to download 11172506 bytes in 4 threads
+Download: 1.74 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 0.958272 seconds to upload 820032 bytes in 4 threads
+Upload: 6.53 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://server-15871.prod.hosts.ooklaserver.net:8080 - 56.405499999999996 ms
+Server http://server-15871.prod.hosts.ooklaserver.net:8080
+
+starting download tests:
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+Took 26.02459 seconds to download 11172506 bytes in 4 threads
+Download: 3.28 Mbps
+
+starting upload tests:
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+Took 0.943756 seconds to upload 820032 bytes in 4 threads
+Upload: 6.63 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bw-test.smartcity.net:8080 - 54.9315 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 24.97735 seconds to download 11172506 bytes in 4 threads
+Download: 3.41 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 1.061166 seconds to upload 820032 bytes in 4 threads
+Upload: 5.90 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 43.562999999999995 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 29.403141 seconds to download 11172506 bytes in 4 threads
+Download: 2.90 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 4.265854 seconds to upload 820032 bytes in 4 threads
+Upload: 1.47 Mbps
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 41.9405 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 21.180286 seconds to download 11172506 bytes in 4 threads
+Download: 4.02 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.294275 seconds to upload 820032 bytes in 4 threads
+Upload: 4.83 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bw-test.smartcity.net:8080 - 47.286 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 19.402266 seconds to download 11172506 bytes in 4 threads
+Download: 4.39 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 0.895231 seconds to upload 820032 bytes in 4 threads
+Upload: 6.99 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 38.8965 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 38.381376 seconds to download 11172506 bytes in 4 threads
+Download: 2.22 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.026212 seconds to upload 820032 bytes in 4 threads
+Upload: 6.10 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bt67.ddns.net:8080 - 55.673 ms
+Server http://bt67.ddns.net:8080
+
+starting download tests:
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+Took 33.931728 seconds to download 11172506 bytes in 4 threads
+Download: 2.51 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+Took 1.051229 seconds to upload 820032 bytes in 4 threads
+Upload: 5.95 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://winterpark.speedtest.centurylink.net:8080 - 54.605000000000004 ms
+Server http://winterpark.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 46.546407 seconds to download 11172506 bytes in 4 threads
+Download: 1.83 Mbps
+
+starting upload tests:
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.147015 seconds to upload 820032 bytes in 4 threads
+Upload: 5.45 Mbps
+Automatically selected server: http://orlando.speedtest.centurylink.net:8080 - 51.2415 ms
+Server http://orlando.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Took 20.33961 seconds to download 11172506 bytes in 4 threads
+Download: 4.19 Mbps
+
+starting upload tests:
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.545773 seconds to upload 820032 bytes in 4 threads
+Upload: 4.05 Mbps
+rake aborted!
+SyntaxError: /Users/ryne/Development/ruby/rails/speedtest/app/models/speed_test.rb:33: syntax error, unexpected `end', expecting end-of-input
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `block in require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/loaded_features_index.rb:92:in `register'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:22:in `require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:31:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/zeitwerk-2.3.0/lib/zeitwerk/kernel.rb:16:in `require'
+/Users/ryne/Development/ruby/rails/speedtest/lib/tasks/speed.rake:13:in `block (2 levels) in <main>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/rake-13.0.1/exe/rake:27:in `<top (required)>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `eval'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `<main>'
+Tasks: TOP => speed:run_test
+(See full trace by running task with --trace)
+Automatically selected server: http://server-15871.prod.hosts.ooklaserver.net:8080 - 51.17 ms
+Server http://server-15871.prod.hosts.ooklaserver.net:8080
+
+starting download tests:
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Took 27.332861 seconds to download 11172506 bytes in 4 threads
+Download: 3.12 Mbps
+
+starting upload tests:
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+Took 1.501036 seconds to upload 820032 bytes in 4 threads
+Upload: 4.17 Mbps
+rake aborted!
+SyntaxError: /Users/ryne/Development/ruby/rails/speedtest/app/models/speed_test.rb:33: syntax error, unexpected `end', expecting end-of-input
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `block in require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/loaded_features_index.rb:92:in `register'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:22:in `require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:31:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/zeitwerk-2.3.0/lib/zeitwerk/kernel.rb:16:in `require'
+/Users/ryne/Development/ruby/rails/speedtest/lib/tasks/speed.rake:13:in `block (2 levels) in <main>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/rake-13.0.1/exe/rake:27:in `<top (required)>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `eval'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `<main>'
+Tasks: TOP => speed:run_test
+(See full trace by running task with --trace)
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bt67.ddns.net:8080 - 55.656 ms
+Server http://bt67.ddns.net:8080
+
+starting download tests:
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+Took 28.580219 seconds to download 11172506 bytes in 4 threads
+Download: 2.98 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+Took 2.019134 seconds to upload 820032 bytes in 4 threads
+Upload: 3.10 Mbps
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 53.8685 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 25.980462 seconds to download 11172506 bytes in 4 threads
+Download: 3.28 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 0.981197 seconds to upload 820032 bytes in 4 threads
+Upload: 6.38 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://server-15871.prod.hosts.ooklaserver.net:8080 - 57.4635 ms
+Server http://server-15871.prod.hosts.ooklaserver.net:8080
+
+starting download tests:
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+Took 13.043301 seconds to download 11172506 bytes in 4 threads
+Download: 6.54 Mbps
+
+starting upload tests:
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+Took 0.86912 seconds to upload 820032 bytes in 4 threads
+Upload: 7.20 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 51.605 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+Took 24.599357 seconds to download 11172506 bytes in 4 threads
+Download: 3.47 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.512165 seconds to upload 820032 bytes in 4 threads
+Upload: 4.14 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 42.986000000000004 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 22.620046 seconds to download 11172506 bytes in 4 threads
+Download: 3.77 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.109242 seconds to upload 820032 bytes in 4 threads
+Upload: 5.64 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bw-test.smartcity.net:8080 - 46.2175 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 23.278085 seconds to download 11172506 bytes in 4 threads
+Download: 3.66 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 3.061304 seconds to upload 820032 bytes in 4 threads
+Upload: 2.04 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://server-15871.prod.hosts.ooklaserver.net:8080 - 48.519 ms
+Server http://server-15871.prod.hosts.ooklaserver.net:8080
+
+starting download tests:
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+Took 20.57806 seconds to download 11172506 bytes in 4 threads
+Download: 4.14 Mbps
+
+starting upload tests:
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+Took 0.851961 seconds to upload 820032 bytes in 4 threads
+Upload: 7.34 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 38.022 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 36.530891 seconds to download 11172506 bytes in 4 threads
+Download: 2.33 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.201854 seconds to upload 820032 bytes in 4 threads
+Upload: 5.21 Mbps
+Automatically selected server: http://speedtest.tpa.hivelocity.net:8080 - 50.03 ms
+Server http://speedtest.tpa.hivelocity.net:8080
+
+starting download tests:
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+Took 32.136918 seconds to download 11172506 bytes in 4 threads
+Download: 2.65 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Took 1.133756 seconds to upload 820032 bytes in 4 threads
+Upload: 5.52 Mbps
+Automatically selected server: http://bw-test.smartcity.net:8080 - 53.1665 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 23.045123 seconds to download 11172506 bytes in 4 threads
+Download: 3.70 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 1.349524 seconds to upload 820032 bytes in 4 threads
+Upload: 4.64 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bw-test.smartcity.net:8080 - 48.9025 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 12.923928 seconds to download 11172506 bytes in 4 threads
+Download: 6.60 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 1.425144 seconds to upload 820032 bytes in 4 threads
+Upload: 4.39 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bt67.ddns.net:8080 - 47.474000000000004 ms
+Server http://bt67.ddns.net:8080
+
+starting download tests:
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+Took 13.529043 seconds to download 11172506 bytes in 4 threads
+Download: 6.30 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+Took 1.479723 seconds to upload 820032 bytes in 4 threads
+Upload: 4.23 Mbps
+Automatically selected server: http://bw-test.smartcity.net:8080 - 52.5245 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Took 24.164154 seconds to download 11172506 bytes in 4 threads
+Download: 3.53 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 1.07204 seconds to upload 820032 bytes in 4 threads
+Upload: 5.84 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://server-15871.prod.hosts.ooklaserver.net:8080 - 50.9475 ms
+Server http://server-15871.prod.hosts.ooklaserver.net:8080
+
+starting download tests:
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+Took 32.49772 seconds to download 11172506 bytes in 4 threads
+Download: 2.62 Mbps
+
+starting upload tests:
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+Took 1.271738 seconds to upload 820032 bytes in 4 threads
+Upload: 4.92 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://server-15871.prod.hosts.ooklaserver.net:8080 - 59.996500000000005 ms
+Server http://server-15871.prod.hosts.ooklaserver.net:8080
+
+starting download tests:
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random750x750.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/random1500x1500.jpg
+Took 24.455965 seconds to download 11172506 bytes in 4 threads
+Download: 3.49 Mbps
+
+starting upload tests:
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 10000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+  uploading size 400000: http://server-15871.prod.hosts.ooklaserver.net:8080/speedtest/upload.php
+Took 0.943622 seconds to upload 820032 bytes in 4 threads
+Upload: 6.63 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bt67.ddns.net:8080 - 54.3085 ms
+Server http://bt67.ddns.net:8080
+
+starting download tests:
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+Took 38.567546 seconds to download 11172506 bytes in 4 threads
+Download: 2.21 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+Took 0.97073 seconds to upload 820032 bytes in 4 threads
+Upload: 6.44 Mbps
+Automatically selected server: http://bw-test.smartcity.net:8080 - 55.5945 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Took 35.923756 seconds to download 11172506 bytes in 4 threads
+Download: 2.37 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 1.074457 seconds to upload 820032 bytes in 4 threads
+Upload: 5.82 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest.tpa.hivelocity.net:8080 - 49.2675 ms
+Server http://speedtest.tpa.hivelocity.net:8080
+
+starting download tests:
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+Took 22.399935 seconds to download 11172506 bytes in 4 threads
+Download: 3.81 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+Took 1.0958 seconds to upload 820032 bytes in 4 threads
+Upload: 5.71 Mbps
+rake aborted!
+SyntaxError: /Users/ryne/Development/ruby/rails/speedtest/app/models/speed_test.rb:36: syntax error, unexpected end-of-input, expecting `end'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `block in require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/loaded_features_index.rb:92:in `register'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:22:in `require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:31:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/zeitwerk-2.3.0/lib/zeitwerk/kernel.rb:16:in `require'
+/Users/ryne/Development/ruby/rails/speedtest/lib/tasks/speed.rake:13:in `block (2 levels) in <main>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/rake-13.0.1/exe/rake:27:in `<top (required)>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `eval'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `<main>'
+Tasks: TOP => speed:run_test
+(See full trace by running task with --trace)
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest.tpa.hivelocity.net:8080 - 50.681 ms
+Server http://speedtest.tpa.hivelocity.net:8080
+
+starting download tests:
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+Took 29.709435 seconds to download 11172506 bytes in 4 threads
+Download: 2.87 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+Took 0.957169 seconds to upload 820032 bytes in 4 threads
+Upload: 6.54 Mbps
+rake aborted!
+SyntaxError: /Users/ryne/Development/ruby/rails/speedtest/app/models/speed_test.rb:36: syntax error, unexpected end-of-input, expecting `end'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:23:in `block in require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/loaded_features_index.rb:92:in `register'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:22:in `require_with_bootsnap_lfi'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/bootsnap-1.4.6/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:31:in `require'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/zeitwerk-2.3.0/lib/zeitwerk/kernel.rb:16:in `require'
+/Users/ryne/Development/ruby/rails/speedtest/lib/tasks/speed.rake:13:in `block (2 levels) in <main>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/gems/rake-13.0.1/exe/rake:27:in `<top (required)>'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `eval'
+/Users/ryne/.rvm/gems/ruby-2.7.0-preview1/bin/ruby_executable_hooks:24:in `<main>'
+Tasks: TOP => speed:run_test
+(See full trace by running task with --trace)
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 49.159 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 36.362076 seconds to download 11172506 bytes in 4 threads
+Download: 2.34 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.045345 seconds to upload 820032 bytes in 4 threads
+Upload: 5.98 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 43.2045 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 39.410981 seconds to download 11172506 bytes in 4 threads
+Download: 2.16 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.2053 seconds to upload 820032 bytes in 4 threads
+Upload: 5.19 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 48.542 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 22.346903 seconds to download 11172506 bytes in 4 threads
+Download: 3.81 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 0.985774 seconds to upload 820032 bytes in 4 threads
+Upload: 6.35 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 52.852000000000004 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 101.33858 seconds to download 11172506 bytes in 4 threads
+Download: 861.32 Kbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.214952 seconds to upload 820032 bytes in 4 threads
+Upload: 5.15 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bw-test.smartcity.net:8080 - 58.946 ms
+Server http://bw-test.smartcity.net:8080
+
+starting download tests:
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random750x750.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bw-test.smartcity.net:8080/speedtest/random1500x1500.jpg
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://orlando.speedtest.centurylink.net:8080 - 69.03399999999999 ms
+Server http://orlando.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 122.931842 seconds to download 11172506 bytes in 4 threads
+Download: 710.03 Kbps
+
+starting upload tests:
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 10000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+  uploading size 400000: http://bw-test.smartcity.net:8080/speedtest/upload.php
+Took 5.276657 seconds to upload 820032 bytes in 4 threads
+Upload: 1.19 Mbps
+Took 104.969214 seconds to download 11172506 bytes in 4 threads
+Download: 831.53 Kbps
+
+starting upload tests:
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.035911 seconds to upload 820032 bytes in 4 threads
+Upload: 6.04 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://bt67.ddns.net:8080 - 52.201499999999996 ms
+Server http://bt67.ddns.net:8080
+
+starting download tests:
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random750x750.jpg
+  downloading: http://bt67.ddns.net:8080/speedtest/random1500x1500.jpg
+Took 24.39572 seconds to download 11172506 bytes in 4 threads
+Download: 3.49 Mbps
+
+starting upload tests:
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 400000: http://bt67.ddns.net:8080/speedtest/upload.php
+  uploading size 10000: http://bt67.ddns.net:8080/speedtest/upload.php
+Took 0.96248 seconds to upload 820032 bytes in 4 threads
+Upload: 6.50 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest.tpa.hivelocity.net:8080 - 61.2805 ms
+Server http://speedtest.tpa.hivelocity.net:8080
+
+starting download tests:
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+Took 39.924415 seconds to download 11172506 bytes in 4 threads
+Download: 2.14 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+Took 2.241045 seconds to upload 820032 bytes in 4 threads
+Upload: 2.79 Mbps
+Automatically selected server: http://winterpark.speedtest.centurylink.net:8080 - 48.548500000000004 ms
+Server http://winterpark.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Took 95.490252 seconds to download 11172506 bytes in 4 threads
+Download: 914.07 Kbps
+
+starting upload tests:
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.261074 seconds to upload 820032 bytes in 4 threads
+Upload: 4.96 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 52.763 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 37.082235 seconds to download 11172506 bytes in 4 threads
+Download: 2.30 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 1.097276 seconds to upload 820032 bytes in 4 threads
+Upload: 5.70 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 51.136 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 54.768217 seconds to download 11172506 bytes in 4 threads
+Download: 1.56 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 0.915819 seconds to upload 820032 bytes in 4 threads
+Upload: 6.83 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://winterpark.speedtest.centurylink.net:8080 - 62.3575 ms
+Server http://winterpark.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 77.249791 seconds to download 11172506 bytes in 4 threads
+Download: 1.10 Mbps
+
+starting upload tests:
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.079881 seconds to upload 820032 bytes in 4 threads
+Upload: 5.79 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://winterpark.speedtest.centurylink.net:8080 - 71.662 ms
+Server http://winterpark.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 83.095288 seconds to download 11172506 bytes in 4 threads
+Download: 1.03 Mbps
+
+starting upload tests:
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.167512 seconds to upload 820032 bytes in 4 threads
+Upload: 5.36 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 50.173500000000004 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 43.717017 seconds to download 11172506 bytes in 4 threads
+Download: 1.95 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 0.909203 seconds to upload 820032 bytes in 4 threads
+Upload: 6.88 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 47.182500000000005 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 16.071921 seconds to download 11172506 bytes in 4 threads
+Download: 5.30 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 4.021824 seconds to upload 820032 bytes in 4 threads
+Upload: 1.56 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 50.098499999999994 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 11.768695 seconds to download 11172506 bytes in 4 threads
+Download: 7.24 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 0.800499 seconds to upload 820032 bytes in 4 threads
+Upload: 7.82 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://speedtest1.thevillages.com:8080 - 53.568 ms
+Server http://speedtest1.thevillages.com:8080
+
+starting download tests:
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest1.thevillages.com:8080/speedtest/random1500x1500.jpg
+Took 18.762675 seconds to download 11172506 bytes in 4 threads
+Download: 4.54 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest1.thevillages.com:8080/speedtest/upload.php
+Took 3.387014 seconds to upload 820032 bytes in 4 threads
+Upload: 1.85 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://orlando.speedtest.centurylink.net:8080 - 59.8775 ms
+Server http://orlando.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://orlando.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 36.643985 seconds to download 11172506 bytes in 4 threads
+Download: 2.33 Mbps
+
+starting upload tests:
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://orlando.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 1.428796 seconds to upload 820032 bytes in 4 threads
+Upload: 4.38 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]
+Automatically selected server: http://winterpark.speedtest.centurylink.net:8080 - 42.469 ms
+Server http://winterpark.speedtest.centurylink.net:8080
+
+starting download tests:
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random750x750.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://winterpark.speedtest.centurylink.net:8080/speedtest/random1500x1500.jpg
+Took 36.027138 seconds to download 11172506 bytes in 4 threads
+Download: 2.37 Mbps
+
+starting upload tests:
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 10000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+  uploading size 400000: http://winterpark.speedtest.centurylink.net:8080/speedtest/upload.php
+Took 0.900039 seconds to upload 820032 bytes in 4 threads
+Upload: 6.95 Mbps
+Automatically selected server: http://speedtest.tpa.hivelocity.net:8080 - 50.5875 ms
+Server http://speedtest.tpa.hivelocity.net:8080
+
+starting download tests:
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random750x750.jpg
+  downloading: http://speedtest.tpa.hivelocity.net:8080/speedtest/random1500x1500.jpg
+Took 43.723792 seconds to download 11172506 bytes in 4 threads
+Download: 1.95 Mbps
+
+starting upload tests:
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 10000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+  uploading size 400000: http://speedtest.tpa.hivelocity.net:8080/speedtest/upload.php
+Took 1.74422 seconds to upload 820032 bytes in 4 threads
+Upload: 3.59 Mbps
+Your IP: 172.58.172.60
+Your coordinates: [28.5177, -81.4508]

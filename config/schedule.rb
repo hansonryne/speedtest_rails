@@ -19,7 +19,6 @@
 
 # Learn more: http://github.com/javan/whenever
 set :environment, "development"
-set :output, "cron_log.log"
 
 every 2.minutes do
   rake "speed:run_test"
