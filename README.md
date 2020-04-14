@@ -3,6 +3,8 @@
 ## Description
 This is a simple Rails application to monitor network speed over time.
 
+![](https://github.com/hansonryne/assets/blob/master/speedtest/index.png?raw=true)
+
 ### Dependencies
 This can be run entirely in Docker and docker-compose using the commands below.
 The base image is a custom version of Ruby's ```ruby:alpine3.10``` which can be found on DockerHub.
@@ -10,7 +12,7 @@ The base image is a custom version of Ruby's ```ruby:alpine3.10``` which can be 
 Just install any dependencies for Rails (and rsync) in that base image and it should be good to go.
 
 ### Installing and Running
-An environment file needs to be build in the root of the directory before the application can start successfully.
+An environment file needs to be built in the root of the directory before the application can start successfully.
 
 ```
 cd repository
@@ -58,7 +60,7 @@ docker-compose up -d --build
 
 The first time building everything will take a while because of yarn installation.
 
-After the containers are running run
+After the containers are up, run
 
 ```
 docker-compose exec app /app/inside_build.sh
