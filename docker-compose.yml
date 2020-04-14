@@ -1,14 +1,28 @@
-version: '3'
+version: "3"
+
 services:
-  db:
-    image: postgres
-    volumes:
-      - ./tmp/db:/var/lib/postgresql/data
-  web:
+  app:
     build: .
-    volumes:
-      - .:/myapp
-    ports:
-      - "3000:3000"
     depends_on:
-      - db
+      - database
+    volumes:
+      - ./:/app
+      - gem_cache:/gems
+    ports:
+     - 3000:3000
+    env_file:
+     - .env
+    environment: 
+     - PATH=/gems/bin:$PATH
+    command: /app/entrypoint.sh
+
+  database:
+    image: postgres:11.2-alpine
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  gem_cache:
+    external: true
+  db_data:

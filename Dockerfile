@@ -1,22 +1,12 @@
-FROM ruby:alpine3.10
+FROM my-ruby-alpine
 
-RUN apt-get update -qq && apt-get install -y nodejs postgresql-client
+# Create and define the node_modules's cache directory.
+RUN mkdir /node_cache
+WORKDIR /node_cache
 
-RUN mkdir /myapp
+# Install the application's dependencies into the node_modules's cache directory.
+COPY package.json ./
+RUN yarn install
 
-WORKDIR /myapp
-
-COPY Gemfile /myapp/Gemfile
-COPY Gemfile.lock /myapp/Gemfile.lock
-RUN bundle install
-
-COPY . /myapp
-
-# Add a script to be executed every time the container starts.
-COPY entrypoint.sh /usr/bin/
-RUN chmod +x /usr/bin/entrypoint.sh
-ENTRYPOINT ["entrypoint.sh"]
-EXPOSE 3000
-
-# Start the main process.
-CMD ["rails", "server", "-b", "0.0.0.0"]
+# Create and define the application's working directory.
+WORKDIR /app

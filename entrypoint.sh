@@ -1,8 +1,6 @@
-#!/bin/bash
-set -e
+#!/bin/sh
 
-# Remove a potentially pre-existing server.pid for Rails.
-rm -f /myapp/tmp/pids/server.pid
-
-# Then exec the container's main process (what's set as CMD in the Dockerfile).
-exec "$@"
+echo "Copying node cache"
+rsync -av /node_cache/. /app/
+echo "Starting rails server"
+exec rails s -b 0.0.0.0

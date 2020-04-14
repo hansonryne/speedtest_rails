@@ -18,7 +18,8 @@
 # end
 
 # Learn more: http://github.com/javan/whenever
-set :environment, "development"
+
+set :environment, ENV["RAILS_ENV"]
 
 every 2.minutes do
   rake "speed:run_test"
