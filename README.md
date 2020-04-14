@@ -1,24 +1,74 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+This is a simple Rails application to monitor network speed over time.
 
-Things you may want to cover:
+### Dependencies
+This can be run entirely in Docker and docker-compose using the commands below.
+The base image is a custom version of Ruby's ```ruby:alpine3.10``` which can be found on DockerHub.
 
-* Ruby version
+Just install any dependencies for Rails (and rsync) in that base image and it should be good to go.
 
-* System dependencies
+### Installing and Running
+An environment file needs to be build in the root of the directory before the application can start successfully.
 
-* Configuration
+```
+cd repository
+vim .env
+```
 
-* Database creation
+Copy/Paste/Modify the following environment variables
+```
+# Rails ENV variables
+DATABASE_USER=sammy
+# UPDATE THIS
+DATABASE_PASSWORD=shark
+DATABASE_NAME=speedtest_database
+DATABASE_HOST=database
+RAILS_ENV=development
+RAILS_SERVE_STATIC_FILES=true
+# UPDATE THIS
+SECRET_KEY_BASE=supers3cr3tpassword
 
-* Database initialization
+#Point Bundler at /gems. This will cause Bundler to re-use gems that have already been installed on the gems volume
+BUNDLE_PATH=/gems
+BUNDLE_HOME=/gems
 
-* How to run the test suite
+# Increase how many threads Bundler uses when installing. Optional!
+BUNDLE_JOBS=4
+# How many times Bundler will retry a gem download. Optional!
+BUNDLE_RETRY=3
 
-* Services (job queues, cache servers, search engines, etc.)
+# Where Rubygems will look for gems, similar to BUNDLE_ equivalents.
+GEM_HOME=/gems
+GEM_PATH=/gems
 
-* Deployment instructions
+# For the Postgres container
+POSTGRES_DB=speedtest_database
+POSTGRES_USER=sammy
+# UPDATE THIS
+POSTGRES_PASSWORD=shark
+```
 
-* ...
+The application can be built and run with 
+
+```
+docker-compose up -d --build
+```
+
+The first time building everything will take a while because of yarn installation.
+
+After the containers are running run
+
+```
+docker-compose exec app /app/inside_build.sh
+```
+
+to create the database and start background tasks.
+
+### Thanks
+* chartkick gem
+* whenever gem
+* speedtest gem
+* https://stackoverflow.com/questions/51097652/install-node-modules-inside-docker-container-and-synchronize-them-with-host
+
