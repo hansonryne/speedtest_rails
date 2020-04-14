@@ -60,14 +60,6 @@ docker-compose up -d --build
 
 The first time building everything will take a while because of yarn installation.
 
-After the containers are up, run
-
-```
-docker-compose exec app /app/inside_build.sh
-```
-
-to create the database and start background tasks.
-
 ### Thanks
 * chartkick gem
 * whenever gem
