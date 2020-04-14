@@ -21,6 +21,6 @@
 
 set :environment, ENV["RAILS_ENV"]
 
-every 2.minutes do
+every 20.minutes do
   rake "speed:run_test"
 end
