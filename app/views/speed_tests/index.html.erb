@@ -4,6 +4,11 @@
 
 <%= render 'form' %>
 
+<h2>Most Recent Stats:</h2>
+<p>Ping: <%= @last_test.ping %></p>
+<p>Downlaod: <%= @last_test.download %></p>
+<p>Upload: <%= @last_test.upload %></p>
+
 <h2>Latency (ms)</h2>
 <%= line_chart @pings %>
 <h2>Download Speed</h2>

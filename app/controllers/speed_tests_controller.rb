@@ -12,6 +12,7 @@ class SpeedTestsController < ApplicationController
     @download_speeds = SpeedTest.get_download_speed(@records.to_a)
     @upload_speeds = SpeedTest.get_upload_speed(@records.to_a)
     @bar_chart = SpeedTest.all.group(:server).count
+    @last_test = SpeedTest.last
   end
 
   # GET /speed_tests/1
