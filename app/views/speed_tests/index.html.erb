@@ -6,9 +6,9 @@
 
 <% if @last_test %>
 <h2>Most Recent Stats:</h2>
-<p>Ping: <%= @last_test.ping %></p>
-<p>Downlaod: <%= @last_test.download %></p>
-<p>Upload: <%= @last_test.upload %></p>
+<p>Ping: <%= @last_test.ping.to_f.round(2) %> ms</p>
+<p>Downlaod: <%= @last_test.download.to_f.round(2) %> Mb/s</p>
+<p>Upload: <%= @last_test.upload.to_f.round(2) %> Mb/s</p>
 <% end %>
 
 <h2>Latency (ms)</h2>
