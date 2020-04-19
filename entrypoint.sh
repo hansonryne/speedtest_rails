@@ -1,27 +1,33 @@
 #!/bin/sh
+echo "Installing new gems if needed"
+bundle check || bundle install
 
 echo "Copying node cache"
 rsync -av /node_cache/. /app/
 
 echo "Creating database..."
-rake db:create
+bundle exec rake db:create
 echo "Running database migrations..."
-rake db:migrate
+bundle exec rake db:migrate
 
-echo "You may also want to precompile assets"
-echo "Comment out the rake task in this file if this is the case"
-rake assets:precompile
+echo "Precompiling webpack assets"
+bundle exec rake assets:precompile
 
 echo "Getting cron jobs ready..."
 bundle exec wheneverize .
+
 echo "Starting background jobs"
 bundle exec whenever --update-crontab
 crond -b
+
 echo "Your background jobs look like:"
 crontab -l
+
 echo "Your ongoing processes:"
 ps aux
-echo "Done!"
+
+echo "Removing any old server pids"
+rm -f /myapp/tmp/pids/server.pid
 
 echo "Starting rails server"
-exec rails s -b 0.0.0.0
+bundle exec rails s -b 0.0.0.0

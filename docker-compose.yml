@@ -24,5 +24,4 @@ services:
 
 volumes:
   gem_cache:
-    external: true
   db_data:
