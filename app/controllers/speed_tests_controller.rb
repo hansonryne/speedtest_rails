@@ -10,15 +10,15 @@ class SpeedTestsController < ApplicationController
     params[:max_records] ? @records_to_show = params[:max_records] : @records_to_show = 10
     @records = SpeedTest.all.order(created_at: 'desc').limit(@records_to_show)
 
-    # Ping speeds from all tests
+    # Ping speeds and averages from number of records selected
     @pings = SpeedTest.get_pings(@records.to_a)
     @ping_avg = @pings.map{|ping| ping[1].to_f}.inject(:+) / @pings.size.to_f
 
-    # Download speeds from all tests
+    # Download speeds and averages from number of records selected
     @download_speeds = SpeedTest.get_download_speed(@records.to_a)
     @down_avg = @download_speeds.map{|down| down[1].to_f}.inject(:+) / @download_speeds.size.to_f
 
-    # Upload speeds from all tests
+    # Upload speeds and averages from number of records selected
     @upload_speeds = SpeedTest.get_upload_speed(@records.to_a)
     @up_avg = @upload_speeds.map{|up| up[1].to_f}.inject(:+) / @upload_speeds.size.to_f
     
