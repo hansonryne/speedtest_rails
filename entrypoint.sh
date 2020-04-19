@@ -27,7 +27,7 @@ echo "Your ongoing processes:"
 ps aux
 
 echo "Removing any old server pids"
-rm -f /myapp/tmp/pids/server.pid
+rm -f /app/tmp/pids/server.pid
 
 echo "Starting rails server"
 bundle exec rails s -b 0.0.0.0

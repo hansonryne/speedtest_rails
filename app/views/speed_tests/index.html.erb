@@ -5,23 +5,26 @@
 <%= render 'form' %>
 
 <% if @last_test %>
-<h2>Most Recent Stats:</h2>
-<p>Ping: <%= @last_test.ping.to_f.round(2) %> ms</p>
-<p>Downlaod: <%= @last_test.download.to_f.round(2) %> Mb/s</p>
-<p>Upload: <%= @last_test.upload.to_f.round(2) %> Mb/s</p>
+<h2>Most Recent Test:</h2>
+<p>Ping: <%= @last_test.ping.to_f.round(2) %> ms |
+Download: <%= @last_test.download.to_f.round(2) %> Mb/s |
+Upload: <%= @last_test.upload.to_f.round(2) %> Mb/s</p>
 <% end %>
 
-<h2>Latency (ms)</h2>
-<%= line_chart @pings %>
-<h2>Download Speed</h2>
+<!--
+<% if @best_download_server %>
+<h2>Best Server Download:</h2>
+<p>Server: <%= @best_download_server[0] %></p>
+<p>Speed: <%= @best_download_server[1].to_f.round(2) %></p>
+<% end %>
+-->
+
+<h2>Download Speed: (avg: <%= @down_avg.to_f.round(2) %> Mb/s)</h2>
 <%= line_chart @download_speeds %>
-<h2>Upload Speed</h2>
+<h2>Upload Speed: (avg: <%= @up_avg.to_f.round(2) %> Mb/s)</h2>
 <%= line_chart @upload_speeds %>
+<h2>Latency (ms): (avg: <%= @ping_avg.to_f.round(2) %> ms)</h2>
+<%= line_chart @pings %>
 
-<h2>Server Usage</h2>
+<h2>Server Count: <%= @bar_chart.length %></h2>
 <%= bar_chart @bar_chart %>
-
-
-<br>
-
-<%= link_to 'New Speed Test', new_speed_test_path %>

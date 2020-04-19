@@ -6,13 +6,46 @@ class SpeedTestsController < ApplicationController
   # GET /speed_tests
   # GET /speed_tests.json
   def index
+    #Getting the number of speedtests to display
     params[:max_records] ? @records_to_show = params[:max_records] : @records_to_show = 10
     @records = SpeedTest.all.order(created_at: 'desc').limit(@records_to_show)
+
+    # Ping speeds from all tests
     @pings = SpeedTest.get_pings(@records.to_a)
+    @ping_avg = @pings.map{|ping| ping[1].to_f}.inject(:+) / @pings.size.to_f
+
+    # Download speeds from all tests
     @download_speeds = SpeedTest.get_download_speed(@records.to_a)
+    @down_avg = @download_speeds.map{|down| down[1].to_f}.inject(:+) / @download_speeds.size.to_f
+
+    # Upload speeds from all tests
     @upload_speeds = SpeedTest.get_upload_speed(@records.to_a)
+    @up_avg = @upload_speeds.map{|up| up[1].to_f}.inject(:+) / @upload_speeds.size.to_f
+    
+    # Number of tests for each server
     @bar_chart = SpeedTest.all.group(:server).count
+    
+    # Most recent test
     @last_test = SpeedTest.last
+
+    # Test results grouped by server
+    @servers = SpeedTest.all.group_by(&:server)
+
+    # Getting average download speed for each server
+    @average_ping = {}
+    @servers.each do |server, testarr|
+      @average_ping[server] = testarr.map{|item| item.ping.to_f}.inject(:+) / testarr.size.to_f
+    end
+    @average_up = {}
+    @servers.each do |server, testarr|
+      @average_up[server] = testarr.map{|item| item.upload.to_f}.inject(:+) / testarr.size.to_f
+    end
+    @average_down = {}
+    @servers.each do |server, testarr|
+      @average_down[server] = testarr.map{|item| item.download.to_f}.inject(:+) / testarr.size.to_f
+    end
+    # Choose the server with the best download speed
+    @best_download_server = @average_down.max_by{|k,v| v}
   end
 
   # GET /speed_tests/1
