@@ -20,9 +20,11 @@ services:
   database:
     image: postgres:11.2-alpine
     restart: always
+    env_file:
+     - .env
     volumes:
       - db_data:/var/lib/postgresql/data
-      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./init.sh:/docker-entrypoint-initdb.d/init.sh
 
 volumes:
   gem_cache:

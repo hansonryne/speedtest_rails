@@ -3,7 +3,7 @@ echo "Installing new gems if needed"
 bundle check || bundle install
 
 echo "Copying node cache"
-rsync -av /node_cache/. /app/
+#rsync -av /node_cache/. /app/
 
 echo "Creating database..."
 bundle exec rake db:create
